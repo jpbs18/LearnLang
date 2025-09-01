@@ -3,6 +3,10 @@ LearnLang is a polyglot microservices-based platform designed to help users lear
 
 ---
 
+## 🗺️ Architecture Diagram
+
+![Architecture Overview](assets/architecture.drawio.png)
+
 ## 📐 Architecture Overview
 
 This system is composed of the following components:
